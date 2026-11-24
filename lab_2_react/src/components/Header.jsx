@@ -1,6 +1,6 @@
 // Крок 3.1: ІМПОРТ ФОТОГРАФІЇ
 // Змініть './../assets/my_photo.jpg' на шлях до ВАШОГО файлу в папці assets
-import MyPhoto from '/Users/a55555/Downloads/photo_2026-10-15 12.10.37.jpeg' // Імпорт фото
+import MyPhoto from '../assets/my_photo.jpeg' // Імпорт фото
 
 function Header() {
   return (
